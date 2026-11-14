@@ -1,0 +1,1 @@
+{"description":"Serve a trial env's 20 requests with the best free model each, routing across ten simulated providers.","engines":{"node":">=22"},"license":"MIT","main":"main.ts","name":"free-model-aggregator","scripts":{"check":"node main.ts --list","list":"node main.ts --list","start":"node main.ts"},"type":"module","version":"1.0.0"}
